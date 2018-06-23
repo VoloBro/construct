@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "ro",
+    "name": "Construct - Blueprint",
+    "scope": "/construct/",
+    "display": "browser",
+    "start_url": "https://volobro.github.io/construct/",
+    "short_name": "Blueprint",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/e8bfcdd1-70ee-a26c-0398-7e185fc79cdf.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2c0b14a4-3e12-2161-9317-c497b7809ee7.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/68527df8-83f0-9bb4-7ce0-6d4b698e8c5c.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/16a28302-9896-9b2c-98b9-a25580b552ce.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e1af8ffe-5115-15f8-3f01-eca2649c5763.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b80ec74f-fe6a-5bc7-46e4-a5b74b6e1690.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/69ea559a-0c54-9b6c-de05-08a953d2a9f7.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/be4a554e-0aa7-2fd7-df8e-e26240e94e50.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d2572c81-f404-beff-4969-90bf8dbe79af.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1c63a7d5-5465-ebe8-3f87-fc2c9d2d8c67.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/67877468-68ec-86d6-ff8b-9c2cbd23e9e5.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/79734fdf-90b8-db5c-7ffc-ebe1a8668d98.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f15d6c7d-3435-0fdb-c310-0d50f56bb3b5.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/75efb35c-448c-e4fa-d7bc-29347965aa52.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a69ef20d-65a9-d768-2c56-3001a7c64468.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9cf8db0f-ca78-1b1d-d06b-b56cf140a1ce.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d280b912-5504-79e8-5f55-1fb0f4755ba6.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ac905b92-dab0-3c7a-3f4a-71af1616fb26.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/cab466d5-128c-1f9e-28a0-26515827d30c.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
