@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "ro",
+    "name": "Construct Blueprint",
+    "scope": "/construct/",
+    "display": "browser",
+    "start_url": "https://volobro.github.io/construct/",
+    "short_name": "Blueprint",
+    "theme_color": "transparent",
+    "description": "A sample application to create construction blueprint",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/22814331-9d3d-6b5f-43de-c04bb4f7eab9.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f8f761b3-d843-e5b7-d24a-1b39efd4f5d4.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/dc532bb0-4636-6242-691d-229251b98ed4.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/dc8996e0-ee76-7cb9-9bfb-9cf9410e4732.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a7a9e901-c0ba-9245-1674-e07508a7d078.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/36afefc4-5273-c0ca-94d2-01d904b70034.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/872fbcd5-0e49-caa7-1432-115ea4c084b2.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/557ef506-5c30-82c6-bd82-d2fed1aac7fc.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0c5ac9ec-f34b-a889-58a8-6f2c5eacb2a6.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6db5b5d4-eff7-f7d7-9554-594e4565f214.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/229d96e6-0c0c-0934-6480-72ef2e68eb49.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4afa3699-7338-f0d2-0af8-aac469c8da09.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/25ec2890-faab-fcbb-e0ff-97b0360a1411.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8513bffa-c2f8-e147-84bb-3818b25dbdd6.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/bfdf2c5b-c640-b1e0-b9aa-214c262f864a.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/76062697-9586-6097-2f98-e2e5e014ac82.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2c38f485-272e-6f6e-7e3e-6b44097bea49.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f75d1deb-16f4-53cf-8cde-051a34794007.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4c40c4bc-9343-2e33-5098-63592defd376.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
